@@ -10,4 +10,8 @@
 riscv		CLDX/riscv/20					dev
 riscv		CLS/riscv/20					dev
 
+# AMD64 Profiles
+amd64 		CLS/amd64/20					dev
+amd64		CLD/amd64/20					dev
+
 # vim: set ts=8
